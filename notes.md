@@ -32,3 +32,5 @@ shell script is a text file with a bunch of commands
 
 for PATTERN in ${ERROR_PATTERNS[@]}; do
 Array subscript that means each element remains a separate entity
+
+**My comment to test commits**
